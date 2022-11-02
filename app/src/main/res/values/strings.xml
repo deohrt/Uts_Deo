@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Uts_Deo</string>
+    <string-array name="arr_pendaftar">
+        <item>Jalur Pendaftaran</item>
+        <item>Tes Tertulis</item>
+        <item>Tanpa Tes</item>
+        <item>Beasiswa</item>
+
+    </string-array>
+</resources>
